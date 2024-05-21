@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background: #4e2804;
+  }
+
+
+#login {
+    padding: 50px;
+    font-size: 40px;
+}
+
+#loginMessage {
+    padding: 30px;
+    font-size: 17px;
+    color: rgb(31, 159, 245);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    display: inline-block;
+}
+
+.credentials {
+    padding: auto;
+    border-radius: 10px;
+    height: 25px;
+    width: 200px;
+    font-size: 15px;
+}
+
+#email {
+    padding: auto;
+    margin-left: 100px;
+    border-radius: 10px;
+    height: 25px;
+    width: 200px;
+    font-size: 15px;
+}
+
+.logInBtn {
+    border-radius: 0 6px;
+    color: rgb(23, 199, 0);
+    font-weight: bold;
+}
